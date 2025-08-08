@@ -62,6 +62,4 @@ This repository explores 20 years of crime incident data from Vancouver, BC. The
 - Interactive filters: year, neighborhood, type
 - Geomap with density
 
----
 
-lysis
